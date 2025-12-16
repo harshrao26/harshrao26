@@ -21,7 +21,6 @@ Full Stack Web Developer with hands-on experience building scalable, SEO-optimiz
 
 **Databases**
 - MongoDB
-- Mongoose
 
 **DevOps & Tools**
 - Docker
@@ -69,15 +68,6 @@ Full Stack Web Developer with hands-on experience building scalable, SEO-optimiz
 
 ---
 
-## 📂 Featured Projects
-
-> Repositories include:
-- Next.js SEO-optimized business websites  
-- Admin dashboards with KPI tracking  
-- Job portals & CMS platforms  
-- API-based lead management systems  
-
-(See pinned repositories for details.)
 
 ---
 
