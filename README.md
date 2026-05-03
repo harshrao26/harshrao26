@@ -1,89 +1,73 @@
 # Hi, I'm Harsh 👋
 
-Full Stack Web Developer with hands-on experience building scalable, SEO-optimized, and production-ready web applications. Strong focus on modern JavaScript frameworks, backend integrations, and real-world deployment.
+🚀 Full Stack Web Developer | MERN & Next.js  
+💼 Working at Lawfinity India Pvt Ltd  
+🌐 Founder of GenForge Studio  
 
 ---
 
-## 🚀 Tech Stack
+## 🧠 About Me
 
-**Frontend**
+I build scalable web applications with a focus on performance, clean architecture, and real-world usability.
+
+- 🔭 Currently working on complex full-stack platforms
+- ⚡ Strong in React, Next.js, Node.js, MongoDB
+- 🧩 Problem solver who prefers building over overthinking
+- 💡 Interested in SaaS, automation, and product development
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
 - React.js
-- Next.js (App Router, SSR, SEO)
+- Next.js 15
 - Tailwind CSS
 - Material UI
-- HTML5, CSS3, JavaScript (ES6+)
 
-**Backend**
+### Backend
 - Node.js
 - Express.js
-- REST APIs
-- JWT Authentication
 
-**Databases**
+### Database
 - MongoDB
 
-**DevOps & Tools**
-- Docker
-- Coolify
-- DigitalOcean
-- GitHub Actions
+### Tools
+- Git & GitHub
 - Postman
-
-**Other**
-- SEO (Technical + On-page)
-- Performance Optimization
 - Cloudinary
-- Google Sheets API
-- Webhooks
+- JWT Authentication
 
 ---
 
-## 🧠 What I Work On
+## 📈 What I'm Building
 
-- Full-stack MERN & Next.js applications
-- Internal admin panels & dashboards
-- Multi-tenant CMS systems
-- Authentication & role-based access
-- SEO-first websites with SSR
-- API-driven architectures
-- VPS deployment & server optimization
+- 🔹 Job Listing Platform (MERN)
+- 🔹 Trial Balance → P&L + Balance Sheet Automation Tool
+- 🔹 Agency Projects at GenForge Studio
+
+---
+
+## 🌍 Connect With Me
+
+- 🌐 Website: https://genforgestudio.com
+- 💼 LinkedIn: (Add your link)
+- 📧 Email: (Add your email)
+
+---
+
+## ⚡ Philosophy
+
+> Stop overthinking. Build fast. Fix later. Learn always.
 
 ---
 
 ## 📊 GitHub Stats
 
-![Harsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshrao26&show_icons=true&theme=default&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshrao26&layout=compact&theme=default&hide_border=true)
+![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
 
 ---
 
-## 📌 Highlights
+## 🔥 Contribution Streak
 
-- Built and maintained production-grade Next.js applications
-- Designed scalable backend APIs with authentication
-- Deployed and managed apps on VPS using Docker & Coolify
-- Worked end-to-end: research → development → deployment
-- Strong debugging and problem-solving mindset
-
----
-
-
----
-
-## 📈 Currently Exploring
-
-- Next.js 15 advanced patterns
-- Performance & scalability
-- Server monitoring & uptime automation
-- Background jobs & queues (BullMQ)
-
----
-
-## 📫 Connect
-
-- LinkedIn: https://www.linkedin.com/in/harsh-d-rao/
-
----
-
-**Always learning. Always building.**
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical)
